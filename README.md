@@ -3,6 +3,8 @@
 [繁體中文版](README_zh-TW.md)
 
 A lightweight, web-based tool built with Python and Flask to split MP4 videos into smaller clips of a specified duration. It features a drag-and-drop interface, real-time progress tracking, and specialized export options for video editors.
+![Screenshot](./images/01.png)
+![Screenshot](./images/02.png)
 
 ## Features
 
@@ -13,7 +15,7 @@ A lightweight, web-based tool built with Python and Flask to split MP4 videos in
 - **ZIP Export:** Download all your split clips at once in a convenient ZIP archive.
 - **Real-time Progress:** Live progress bar and status updates during the splitting/transcoding process.
 - **Auto-cleanup:** Automatically manages and cleans up temporary files and old jobs to save disk space.
-
+![Screenshot](./images/03.png)
 ## Prerequisites
 
 - **Python 3.8+**
